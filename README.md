@@ -4,4 +4,7 @@
 **2. Variables**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4b596fb-db9e-4d9c-b2a5-174f095f7f82" />
 
+**3. Tipe Data Dasar**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/115e16dd-ffd9-4cfa-beda-b8d9f4ac0998" />
+
 
